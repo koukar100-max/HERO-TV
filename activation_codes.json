@@ -1,0 +1,20 @@
+{
+  "123123": {
+    "status": "success",
+    "systemType": "Xtream",
+    "serverUrl": "http://kljx7.m4rv-el.space:2095",
+    "username": "5432157882",
+    "password": "77643245"
+  },
+  "010101": {
+    "status": "success",
+    "systemType": "Stalker",
+    "serverUrl": "http://44.vb4444.com:80/c/",
+    "macAddress": "00:1A:79:XX:XX:XX"
+  },
+  "202020": {
+    "status": "success",
+    "systemType": "M3U",
+    "serverUrl": "http://example.com/get.php?auth=demo"
+  }
+}
