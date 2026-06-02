@@ -9,12 +9,12 @@
   "1010": {
     "status": "success",
     "systemType": "Stalker",
-    "serverUrl": "http://foxbleu.pro:80/c/",
-    "macAddress": "00:1A:79:86:82:B5"
+    "serverUrl": "http://ipro.premium-ott3.com/c/",
+    "macAddress": "00:1A:79:72:42:1A"
   },
   "202020": {
     "status": "success",
     "systemType": "M3U",
-    "serverUrl": "http://example.com/get.php?auth=demo"
+    "serverUrl": "http://mydroon.com:80/get.php?username=ibo919453&password=UljJJ4C0xWtlvcE&type=m3u_plus"
   }
 }
